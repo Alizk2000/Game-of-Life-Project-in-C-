@@ -45,7 +45,7 @@ Each cell interacts with its eight neighbors using the following rules:
 
 ---
 ##Example Input(grid.txt) 
-5 5
+5 5 /n
 0 1 0 0 1
 1 0 1 0 0
 0 1 0 1 1
