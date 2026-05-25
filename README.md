@@ -26,9 +26,9 @@ This project demonstrates:
 - Modular code structure using classes
 
 ## Rules of the Game
-<br>
+
 Each cell interacts with its eight neighbors using the following rules:
-<br>
+
 - Any live cell with fewer than 2 live neighbors dies.
 - Any live cell with 2 or 3 live neighbors survives.
 - Any live cell with more than 3 live neighbors dies.
