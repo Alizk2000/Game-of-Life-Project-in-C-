@@ -25,6 +25,15 @@ This project demonstrates:
 - Console visualization of live/dead cells
 - Modular code structure using classes
 
+##Rules of the Game
+
+Each cell interacts with its eight neighbors using the following rules:
+
+- Any live cell with fewer than 2 live neighbors dies.
+- Any live cell with 2 or 3 live neighbors survives.
+- Any live cell with more than 3 live neighbors dies.
+- Any dead cell with exactly 3 live neighbors becomes alive.
+
 ---
 
 ## Technologies Used
@@ -35,6 +44,13 @@ This project demonstrates:
 - Object-Oriented Programming
 
 ---
+##Example Input(grid.txt) 
+5 5
+0 1 0 0 1
+1 0 1 0 0
+0 1 0 1 1
+1 1 0 0 0
+0 0 1 1 0
 
 ## Project Structure
 
