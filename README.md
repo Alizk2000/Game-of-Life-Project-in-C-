@@ -45,12 +45,18 @@ Each cell interacts with its eight neighbors using the following rules:
 
 ---
 ##Example Input(grid.txt) 
-5 5 /n
+5 5 
+<br>
 0 1 0 0 1
+<br>
 1 0 1 0 0
+<br>
 0 1 0 1 1
+<br> 
 1 1 0 0 0
+<br>
 0 0 1 1 0
+<br>
 
 ## Project Structure
 
